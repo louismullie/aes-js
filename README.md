@@ -44,4 +44,4 @@ cipher.encrypt(block);
 
 ###License
 
-This code is licensed under the GPL v3.
+This code is licensed under the BSD license.
